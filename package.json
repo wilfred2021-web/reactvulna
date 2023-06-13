@@ -17,6 +17,7 @@
     "webstomp-client": "^1.0.8"
   },
   "scripts": {
+    "sonar": "node sonar-project.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
